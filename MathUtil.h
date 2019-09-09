@@ -1,0 +1,12 @@
+int EvenOrOdd(int);
+int LargestNumber(int, int, int);
+int CountNumber(int);
+int ReverseNumber(int);
+int Pow(int, int);
+int CheckPrime(int);
+int Fact(int);					
+int CheckPrimeRange(int, int);
+int DecimalToBinary(int);
+int BinaryToDecimal(int);
+int OctalToDecimal(int);
+int GCD(int, int);
